@@ -37,6 +37,12 @@ Knowing these 100 commands well — not just their names, but their real options
 
 ---
 
+## Task map
+
+Need to solve a production problem fast instead of reading section by section? Start with [TASKS.md](TASKS.md).
+
+---
+
 ## How to use this reference
 
 Each command follows the same format:
